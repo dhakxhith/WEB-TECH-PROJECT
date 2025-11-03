@@ -1,0 +1,27 @@
+/* src/components/Roadmap.css */
+.roadmap-container {
+  background: #fff;
+  padding: 20px;
+  border-radius: 12px;
+  margin-top: 20px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.roadmap-container input {
+  padding: 8px;
+  width: 60%;
+  margin-right: 10px;
+}
+
+.roadmap-container button {
+  padding: 8px 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.roadmap-level {
+  margin-top: 15px;
+}
